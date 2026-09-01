@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:42:24.712Z",
+  "generated_at": "2026-10-06T15:42:26.851Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -208,6 +208,71 @@
       "last_pushed_at": "2026-08-31T15:14:53.939Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2026-09-01T14:37:23.322Z",
+      "last_pushed_at": "2026-09-01T14:37:23.322Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2026-09-01T14:39:27.082Z",
+      "last_pushed_at": "2026-09-01T14:39:27.082Z",
+      "language": "python",
+      "lines": 98
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-01T14:40:05.266Z",
+      "last_pushed_at": "2026-09-01T14:40:05.266Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-01T14:42:30.250Z",
+      "last_pushed_at": "2026-09-01T14:42:30.250Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-09-01T14:45:05.634Z",
+      "last_pushed_at": "2026-09-01T14:45:05.634Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
