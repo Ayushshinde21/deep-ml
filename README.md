@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 21 problems · 0 labs · 0 math
+**23** solved · 23 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-01 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-01 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-01 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-09-02 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-30 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-30 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-08-31 | [solution](problems/0018-implement-k-fold-cross-validation) |
@@ -33,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-01 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-08-30 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-09-01 | [solution](problems/0020-decision-tree-learning) |
+| [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-09-02 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
 ---
 
