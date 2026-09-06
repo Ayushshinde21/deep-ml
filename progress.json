@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:42:33.194Z",
+  "generated_at": "2026-10-06T15:42:35.507Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -351,6 +351,58 @@
       "last_pushed_at": "2026-09-04T13:03:24.527Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:33": {
+      "kind": "problem",
+      "id": "33",
+      "title": "Generate Random Subsets of a Dataset",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/33",
+      "path": "problems/0033-generate-random-subsets-of-a-dataset",
+      "first_solved_at": "2026-09-06T12:19:11.942Z",
+      "last_pushed_at": "2026-09-06T12:19:11.942Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-09-06T12:19:52.381Z",
+      "last_pushed_at": "2026-09-06T12:19:52.381Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-09-06T12:23:38.894Z",
+      "last_pushed_at": "2026-09-06T12:23:38.894Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-09-06T12:24:42.847Z",
+      "last_pushed_at": "2026-09-06T12:24:42.847Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
