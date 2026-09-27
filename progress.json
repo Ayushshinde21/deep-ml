@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:42:48.710Z",
+  "generated_at": "2026-10-06T15:42:50.649Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -789,6 +789,71 @@
       "last_pushed_at": "2026-09-15T12:14:23.069Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2026-09-27T11:50:34.447Z",
+      "last_pushed_at": "2026-09-27T11:50:34.447Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2026-09-27T11:52:21.962Z",
+      "last_pushed_at": "2026-09-27T11:52:21.962Z",
+      "language": "python",
+      "lines": 71
+    },
+    "problem:55": {
+      "kind": "problem",
+      "id": "55",
+      "title": "2D Translation Matrix Implementation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/55",
+      "path": "problems/0055-2d-translation-matrix-implementation",
+      "first_solved_at": "2026-09-27T11:52:42.121Z",
+      "last_pushed_at": "2026-09-27T11:52:42.121Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2026-09-27T11:53:20.565Z",
+      "last_pushed_at": "2026-09-27T11:53:20.565Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-09-27T11:54:23.268Z",
+      "last_pushed_at": "2026-09-27T11:54:23.268Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
