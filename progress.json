@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T14:30:00.161Z",
+  "generated_at": "2026-10-10T14:30:01.694Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1065,6 +1065,30 @@
       "last_pushed_at": "2026-10-02T14:42:16.631Z",
       "language": "python",
       "lines": 14
+    },
+    "math:20": {
+      "kind": "math",
+      "id": "20",
+      "title": "Bayes' Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/20",
+      "path": "math/0020-bayes-theorem",
+      "first_solved_at": "2026-10-05T15:26:51.336Z",
+      "last_pushed_at": "2026-10-05T15:26:51.336Z"
+    },
+    "problem:180": {
+      "kind": "problem",
+      "id": "180",
+      "title": "Conditional Probability from Joint Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/180",
+      "path": "problems/0180-conditional-probability-from-joint-distribution",
+      "first_solved_at": "2026-10-05T15:29:41.868Z",
+      "last_pushed_at": "2026-10-05T15:29:41.868Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 64 problems · 1 labs · 20 math
+**87** solved · 65 problems · 1 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-07 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-30 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-09-28 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-10-05 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-10-01 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-30 | [solution](problems/0219-derivative-of-softmax) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-09-04 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
@@ -95,6 +96,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-07 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-07 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-28 | [solution](math/0004-backpropagation-and-the-chain-rule) |
+| [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-05 | [solution](math/0020-bayes-theorem) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-11 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-11 | [solution](math/0011-determinants-and-trace) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-11 | [solution](math/0012-inverse-and-rank) |
