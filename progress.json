@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T14:30:01.694Z",
+  "generated_at": "2026-10-10T14:30:03.381Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1089,6 +1089,170 @@
       "last_pushed_at": "2026-10-05T15:29:41.868Z",
       "language": "python",
       "lines": 9
+    },
+    "math:21": {
+      "kind": "math",
+      "id": "21",
+      "title": "Common Distributions I: Bernoulli, Binomial, Uniform",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/21",
+      "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
+      "first_solved_at": "2026-10-06T14:18:25.675Z",
+      "last_pushed_at": "2026-10-06T14:18:25.675Z"
+    },
+    "math:22": {
+      "kind": "math",
+      "id": "22",
+      "title": "Common Distributions II: Normal, Poisson, Exponential",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/22",
+      "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
+      "first_solved_at": "2026-10-06T14:21:13.971Z",
+      "last_pushed_at": "2026-10-06T14:21:13.971Z"
+    },
+    "math:36": {
+      "kind": "math",
+      "id": "36",
+      "title": "Multivariate Gaussians",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/36",
+      "path": "math/0036-multivariate-gaussians",
+      "first_solved_at": "2026-10-06T14:25:39.348Z",
+      "last_pushed_at": "2026-10-06T14:25:39.348Z"
+    },
+    "math:23": {
+      "kind": "math",
+      "id": "23",
+      "title": "Law of Large Numbers and Central Limit Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/23",
+      "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
+      "first_solved_at": "2026-10-06T14:26:21.523Z",
+      "last_pushed_at": "2026-10-06T14:26:21.523Z"
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-10-06T14:34:11.911Z",
+      "last_pushed_at": "2026-10-06T14:34:11.911Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-10-06T14:42:00.598Z",
+      "last_pushed_at": "2026-10-06T14:42:00.598Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-10-06T14:49:10.561Z",
+      "last_pushed_at": "2026-10-06T14:49:10.561Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:342": {
+      "kind": "problem",
+      "id": "342",
+      "title": "Demonstrate Law of Large Numbers with Sampling",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/342",
+      "path": "problems/0342-demonstrate-law-of-large-numbers-with-sampling",
+      "first_solved_at": "2026-10-06T14:53:48.961Z",
+      "last_pushed_at": "2026-10-06T14:53:48.961Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:182": {
+      "kind": "problem",
+      "id": "182",
+      "title": "Central Limit Theorem Simulation",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/182",
+      "path": "problems/0182-central-limit-theorem-simulation",
+      "first_solved_at": "2026-10-06T14:55:58.210Z",
+      "last_pushed_at": "2026-10-06T14:55:58.210Z",
+      "language": "python",
+      "lines": 32
+    },
+    "math:37": {
+      "kind": "math",
+      "id": "37",
+      "title": "Taylor Expansions and Local Quadratic Models",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/37",
+      "path": "math/0037-taylor-expansions-and-local-quadratic-models",
+      "first_solved_at": "2026-10-06T15:17:40.973Z",
+      "last_pushed_at": "2026-10-06T15:17:40.973Z"
+    },
+    "math:6": {
+      "kind": "math",
+      "id": "6",
+      "title": "Optimization: Convexity and Critical Points",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/6",
+      "path": "math/0006-optimization-convexity-and-critical-points",
+      "first_solved_at": "2026-10-06T15:18:51.629Z",
+      "last_pushed_at": "2026-10-06T15:18:51.629Z"
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-10-06T15:19:29.671Z",
+      "last_pushed_at": "2026-10-06T15:19:29.671Z"
+    },
+    "math:15": {
+      "kind": "math",
+      "id": "15",
+      "title": "Matrix Decompositions: LU and QR",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/15",
+      "path": "math/0015-matrix-decompositions-lu-and-qr",
+      "first_solved_at": "2026-10-06T15:20:19.316Z",
+      "last_pushed_at": "2026-10-06T15:20:19.316Z"
+    },
+    "math:31": {
+      "kind": "math",
+      "id": "31",
+      "title": "Regularization and Generalization",
+      "difficulty": "medium",
+      "category": "Bias-variance and L2 penalty",
+      "url": "https://www.deep-ml.com/math-problems/31",
+      "path": "math/0031-regularization-and-generalization",
+      "first_solved_at": "2026-10-06T15:20:51.853Z",
+      "last_pushed_at": "2026-10-06T15:20:51.853Z"
     }
   }
 }

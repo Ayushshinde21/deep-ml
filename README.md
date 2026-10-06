@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**87** solved · 65 problems · 1 labs · 21 math
+**101** solved · 70 problems · 1 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,7 +20,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-08-30 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-30 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-28 | [solution](problems/0331-check-linear-independence-of-vectors) |
+| [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-10-06 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-09-06 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Demonstrate Law of Large Numbers with Sampling](https://www.deep-ml.com/problems/342) | easy | 2026-10-06 | [solution](problems/0342-demonstrate-law-of-large-numbers-with-sampling) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-07 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-09-30 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-09-07 | [solution](problems/0078-descriptive-statistics-calculator) |
@@ -49,8 +51,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-07 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-09-07 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-09-27 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-06 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-07 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-30 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-10-06 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-09-28 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-10-05 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-10-01 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
@@ -69,6 +73,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-12 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-30 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-30 | [solution](problems/0007-matrix-transformation) |
+| [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-10-06 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-10-01 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-09-28 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-01 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
@@ -97,18 +102,27 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-07 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-28 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-05 | [solution](math/0020-bayes-theorem) |
+| [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-10-06 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
+| [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-10-06 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-11 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-11 | [solution](math/0011-determinants-and-trace) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-11 | [solution](math/0012-inverse-and-rank) |
+| [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-10-06 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-09-11 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-09-28 | [solution](math/0035-matrix-calculus-identities) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-07 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-09-28 | [solution](math/0002-multivariate-calculus) |
+| [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-10-06 | [solution](math/0036-multivariate-gaussians) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-09-28 | [solution](math/0003-neural-network-derivatives) |
+| [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-06 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-09-11 | [solution](math/0014-orthogonality-and-projections) |
+| [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-06 | [solution](math/0031-regularization-and-generalization) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-28 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-11 | [solution](math/0013-solving-linear-systems) |
+| [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-10-06 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-07 | [solution](math/0008-vector-norms-and-linear-independence) |
+| [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-06 | [solution](math/0016-eigendecomposition-and-svd) |
+| [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-06 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 
 ---
 
