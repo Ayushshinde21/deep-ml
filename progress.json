@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T14:30:05.574Z",
+  "generated_at": "2026-10-10T14:30:07.277Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -903,7 +903,7 @@
       "url": "https://www.deep-ml.com/math-problems/2",
       "path": "math/0002-multivariate-calculus",
       "first_solved_at": "2026-09-28T14:07:02.983Z",
-      "last_pushed_at": "2026-09-28T14:07:02.983Z"
+      "last_pushed_at": "2026-10-10T14:30:07.275Z"
     },
     "math:35": {
       "kind": "math",
@@ -914,7 +914,7 @@
       "url": "https://www.deep-ml.com/math-problems/35",
       "path": "math/0035-matrix-calculus-identities",
       "first_solved_at": "2026-09-28T14:08:13.472Z",
-      "last_pushed_at": "2026-09-28T14:08:13.472Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "math:3": {
       "kind": "math",
@@ -925,7 +925,7 @@
       "url": "https://www.deep-ml.com/math-problems/3",
       "path": "math/0003-neural-network-derivatives",
       "first_solved_at": "2026-09-28T14:09:16.870Z",
-      "last_pushed_at": "2026-09-28T14:09:16.870Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "math:4": {
       "kind": "math",
@@ -936,7 +936,7 @@
       "url": "https://www.deep-ml.com/math-problems/4",
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-09-28T14:10:48.429Z",
-      "last_pushed_at": "2026-09-28T14:10:48.429Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "math:32": {
       "kind": "math",
@@ -947,7 +947,7 @@
       "url": "https://www.deep-ml.com/math-problems/32",
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-09-28T14:13:11.878Z",
-      "last_pushed_at": "2026-09-28T14:13:11.878Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "problem:215": {
       "kind": "problem",
@@ -1075,7 +1075,7 @@
       "url": "https://www.deep-ml.com/math-problems/20",
       "path": "math/0020-bayes-theorem",
       "first_solved_at": "2026-10-05T15:26:51.336Z",
-      "last_pushed_at": "2026-10-05T15:26:51.336Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "problem:180": {
       "kind": "problem",
@@ -1099,7 +1099,7 @@
       "url": "https://www.deep-ml.com/math-problems/21",
       "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
       "first_solved_at": "2026-10-06T14:18:25.675Z",
-      "last_pushed_at": "2026-10-06T14:18:25.675Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "math:22": {
       "kind": "math",
@@ -1110,7 +1110,7 @@
       "url": "https://www.deep-ml.com/math-problems/22",
       "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
       "first_solved_at": "2026-10-06T14:21:13.971Z",
-      "last_pushed_at": "2026-10-06T14:21:13.971Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "math:36": {
       "kind": "math",
@@ -1121,7 +1121,7 @@
       "url": "https://www.deep-ml.com/math-problems/36",
       "path": "math/0036-multivariate-gaussians",
       "first_solved_at": "2026-10-06T14:25:39.348Z",
-      "last_pushed_at": "2026-10-06T14:25:39.348Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "math:23": {
       "kind": "math",
@@ -1132,7 +1132,7 @@
       "url": "https://www.deep-ml.com/math-problems/23",
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-10-06T14:26:21.523Z",
-      "last_pushed_at": "2026-10-06T14:26:21.523Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "problem:336": {
       "kind": "problem",
@@ -1208,7 +1208,7 @@
       "url": "https://www.deep-ml.com/math-problems/37",
       "path": "math/0037-taylor-expansions-and-local-quadratic-models",
       "first_solved_at": "2026-10-06T15:17:40.973Z",
-      "last_pushed_at": "2026-10-06T15:17:40.973Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "math:6": {
       "kind": "math",
@@ -1219,7 +1219,7 @@
       "url": "https://www.deep-ml.com/math-problems/6",
       "path": "math/0006-optimization-convexity-and-critical-points",
       "first_solved_at": "2026-10-06T15:18:51.629Z",
-      "last_pushed_at": "2026-10-06T15:18:51.629Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "math:16": {
       "kind": "math",
@@ -1230,7 +1230,7 @@
       "url": "https://www.deep-ml.com/math-problems/16",
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-10-06T15:19:29.671Z",
-      "last_pushed_at": "2026-10-06T15:19:29.671Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "math:15": {
       "kind": "math",
@@ -1241,7 +1241,7 @@
       "url": "https://www.deep-ml.com/math-problems/15",
       "path": "math/0015-matrix-decompositions-lu-and-qr",
       "first_solved_at": "2026-10-06T15:20:19.316Z",
-      "last_pushed_at": "2026-10-06T15:20:19.316Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "math:31": {
       "kind": "math",
@@ -1252,7 +1252,7 @@
       "url": "https://www.deep-ml.com/math-problems/31",
       "path": "math/0031-regularization-and-generalization",
       "first_solved_at": "2026-10-06T15:20:51.853Z",
-      "last_pushed_at": "2026-10-06T15:20:51.853Z"
+      "last_pushed_at": "2026-10-10T14:30:07.276Z"
     },
     "lab:23": {
       "kind": "lab",
