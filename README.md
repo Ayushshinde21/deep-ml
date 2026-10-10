@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**104** solved · 72 problems · 2 labs · 30 math
+**105** solved · 73 problems · 2 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-12 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-30 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-09-06 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-10-10 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-09-03 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-30 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-30 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
