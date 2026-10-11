@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**105** solved · 73 problems · 2 labs · 30 math
+**106** solved · 73 problems · 2 labs · 31 math
 
 ![Coverage](./coverage.svg)
 
@@ -124,6 +124,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-28 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-11 | [solution](math/0013-solving-linear-systems) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-10-06 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
+| [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-10-11 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-07 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-06 | [solution](math/0016-eigendecomposition-and-svd) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-06 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
