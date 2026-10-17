@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**111** solved · 76 problems · 4 labs · 31 math
+**112** solved · 77 problems · 4 labs · 31 math
 
 ![Coverage](./coverage.svg)
 
@@ -87,6 +87,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-08-30 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-09-01 | [solution](problems/0020-decision-tree-learning) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-10-15 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
+| [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-17 | [solution](problems/0201-qr-decomposition) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-09-02 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
 ## Labs
