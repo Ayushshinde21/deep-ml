@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:14:42.583Z",
+  "generated_at": "2026-10-23T05:21:45.171Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1405,6 +1405,19 @@
       "path": "problems/0333-lu-decomposition-of-a-square-matrix",
       "first_solved_at": "2026-10-17T14:14:41.713Z",
       "last_pushed_at": "2026-10-17T14:14:41.713Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:119": {
+      "kind": "problem",
+      "id": "119",
+      "title": "Solve System of Linear Equations Using Cramer's Rule",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/119",
+      "path": "problems/0119-solve-system-of-linear-equations-using-cramer-s-rule",
+      "first_solved_at": "2026-10-19T18:30:12.491Z",
+      "last_pushed_at": "2026-10-19T18:30:12.491Z",
       "language": "python",
       "lines": 23
     }
