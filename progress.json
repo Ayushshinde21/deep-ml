@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:21:45.171Z",
+  "generated_at": "2026-10-23T05:21:47.516Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1420,6 +1420,117 @@
       "last_pushed_at": "2026-10-19T18:30:12.491Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:332": {
+      "kind": "problem",
+      "id": "332",
+      "title": "Check if Matrix is Positive Definite",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/332",
+      "path": "problems/0332-check-if-matrix-is-positive-definite",
+      "first_solved_at": "2026-10-21T12:02:13.685Z",
+      "last_pushed_at": "2026-10-21T12:02:13.685Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-10-21T12:04:54.113Z",
+      "last_pushed_at": "2026-10-21T12:04:54.113Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:311": {
+      "kind": "problem",
+      "id": "311",
+      "title": "Classify Critical Points Using Hessian Eigenvalues",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/311",
+      "path": "problems/0311-classify-critical-points-using-hessian-eigenvalues",
+      "first_solved_at": "2026-10-21T12:06:32.660Z",
+      "last_pushed_at": "2026-10-21T12:06:32.660Z",
+      "language": "python",
+      "lines": 16
+    },
+    "math:47": {
+      "kind": "math",
+      "id": "47",
+      "title": "Gram–Schmidt and Orthonormal Bases",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/47",
+      "path": "math/0047-gram-schmidt-and-orthonormal-bases",
+      "first_solved_at": "2026-10-21T13:28:24.077Z",
+      "last_pushed_at": "2026-10-21T13:28:24.077Z"
+    },
+    "math:48": {
+      "kind": "math",
+      "id": "48",
+      "title": "Pseudoinverse and Minimum-Norm Least Squares",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/48",
+      "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
+      "first_solved_at": "2026-10-21T13:28:54.738Z",
+      "last_pushed_at": "2026-10-21T13:28:54.738Z"
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2026-10-21T13:29:50.354Z",
+      "last_pushed_at": "2026-10-21T13:29:50.354Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:334": {
+      "kind": "problem",
+      "id": "334",
+      "title": "Cholesky Decomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/334",
+      "path": "problems/0334-cholesky-decomposition",
+      "first_solved_at": "2026-10-21T13:33:47.477Z",
+      "last_pushed_at": "2026-10-21T13:33:47.477Z",
+      "language": "python",
+      "lines": 21
+    },
+    "math:50": {
+      "kind": "math",
+      "id": "50",
+      "title": "Positive Definite Matrices and Quadratic Forms",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/50",
+      "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
+      "first_solved_at": "2026-10-21T13:34:59.096Z",
+      "last_pushed_at": "2026-10-21T13:34:59.096Z"
+    },
+    "problem:92": {
+      "kind": "problem",
+      "id": "92",
+      "title": "Linear Regression - Power Grid Optimization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/92",
+      "path": "problems/0092-linear-regression-power-grid-optimization",
+      "first_solved_at": "2026-10-21T17:57:06.605Z",
+      "last_pushed_at": "2026-10-21T17:57:06.605Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
