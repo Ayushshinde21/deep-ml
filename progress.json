@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:21:49.683Z",
+  "generated_at": "2026-10-23T05:21:51.736Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1469,7 +1469,7 @@
       "url": "https://www.deep-ml.com/math-problems/47",
       "path": "math/0047-gram-schmidt-and-orthonormal-bases",
       "first_solved_at": "2026-10-21T13:28:24.077Z",
-      "last_pushed_at": "2026-10-21T13:28:24.077Z"
+      "last_pushed_at": "2026-10-23T05:21:51.734Z"
     },
     "math:48": {
       "kind": "math",
@@ -1480,7 +1480,7 @@
       "url": "https://www.deep-ml.com/math-problems/48",
       "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
       "first_solved_at": "2026-10-21T13:28:54.738Z",
-      "last_pushed_at": "2026-10-21T13:28:54.738Z"
+      "last_pushed_at": "2026-10-23T05:21:51.735Z"
     },
     "problem:117": {
       "kind": "problem",
@@ -1517,7 +1517,7 @@
       "url": "https://www.deep-ml.com/math-problems/50",
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-10-21T13:34:59.096Z",
-      "last_pushed_at": "2026-10-21T13:34:59.096Z"
+      "last_pushed_at": "2026-10-23T05:21:51.735Z"
     },
     "problem:92": {
       "kind": "problem",
@@ -1541,7 +1541,7 @@
       "url": "https://www.deep-ml.com/math-problems/130",
       "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
       "first_solved_at": "2026-10-23T05:10:25.995Z",
-      "last_pushed_at": "2026-10-23T05:10:25.995Z"
+      "last_pushed_at": "2026-10-23T05:21:51.735Z"
     },
     "problem:802": {
       "kind": "problem",
