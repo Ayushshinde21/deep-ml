@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:21:47.516Z",
+  "generated_at": "2026-10-23T05:21:49.683Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1531,6 +1531,43 @@
       "last_pushed_at": "2026-10-21T17:57:06.605Z",
       "language": "python",
       "lines": 37
+    },
+    "math:130": {
+      "kind": "math",
+      "id": "130",
+      "title": "Why Minibatches: Gradient Variance vs Batch Size",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/130",
+      "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
+      "first_solved_at": "2026-10-23T05:10:25.995Z",
+      "last_pushed_at": "2026-10-23T05:10:25.995Z"
+    },
+    "problem:802": {
+      "kind": "problem",
+      "id": "802",
+      "title": "Stochastic Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/802",
+      "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-10-23T05:14:21.681Z",
+      "last_pushed_at": "2026-10-23T05:14:21.681Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:803": {
+      "kind": "problem",
+      "id": "803",
+      "title": "Mini-Batch Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/803",
+      "path": "problems/0803-mini-batch-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-10-23T05:15:23.470Z",
+      "last_pushed_at": "2026-10-23T05:15:23.470Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
