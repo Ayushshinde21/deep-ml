@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:13:56.632Z",
+  "generated_at": "2026-10-26T12:15:50.353Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1655,6 +1655,19 @@
       "path": "problems/0141-shift-and-scale-array-to-target-range",
       "first_solved_at": "2026-10-26T12:13:55.583Z",
       "last_pushed_at": "2026-10-26T12:13:55.583Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-10-26T12:15:49.177Z",
+      "last_pushed_at": "2026-10-26T12:15:49.177Z",
       "language": "python",
       "lines": 12
     }
