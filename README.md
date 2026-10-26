@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**134** solved · 94 problems · 4 labs · 36 math
+**135** solved · 95 problems · 4 labs · 36 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-14 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-09-10 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-10-10 | [solution](problems/1022-l2-normalization-along-an-axis) |
+| [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-10-26 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Learning Rate Range Finder for Linear Regression](https://www.deep-ml.com/problems/990) | easy | 2026-10-23 | [solution](problems/0990-learning-rate-range-finder-for-linear-regression) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-09-10 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-08-31 | [solution](problems/0015-linear-regression-using-gradient-descent) |
