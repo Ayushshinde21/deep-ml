@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:18:37.755Z",
+  "generated_at": "2026-10-29T12:26:54.151Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1683,6 +1683,19 @@
       "last_pushed_at": "2026-10-26T12:18:36.531Z",
       "language": "python",
       "lines": 3
+    },
+    "problem:843": {
+      "kind": "problem",
+      "id": "843",
+      "title": "Ordinal Encoding for Categorical Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/843",
+      "path": "problems/0843-ordinal-encoding-for-categorical-features",
+      "first_solved_at": "2026-10-29T12:26:49.084Z",
+      "last_pushed_at": "2026-10-29T12:26:49.084Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
